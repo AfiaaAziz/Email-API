@@ -6,12 +6,12 @@ This project integrates **Gmail SMTP**, **Ngrok**, and **Google Colab** for easy
 ---
 
 ##  Features
-- ✅ Automatic confirmation email sending  
-- ✅ HTML-based professional email template  
-- ✅ REST API endpoint for user input  
-- ✅ CORS enabled for secure cross-origin requests  
-- ✅ Public access via **Ngrok** tunnel  
-- ✅ Optimized for **Google Colab**  
+- Automatic confirmation email sending  
+- HTML-based professional email template  
+- REST API endpoint for user input  
+- CORS enabled for secure cross-origin requests  
+-  Public access via **Ngrok** tunnel  
+-  Optimized for **Google Colab**  
 
 ---
 
